@@ -1,0 +1,26 @@
+body{
+    background-color: rgb( 255,31,60);
+}
+
+h1{
+    color: aqua;
+}
+
+h2{
+    color: antiquewhite;
+    font-size: 25px;
+}
+
+footer{
+    background-color: wheat;
+}
+
+.res{
+    width: 500px;
+    border-radius: 50%;
+    align-items: center;
+}
+
+#res1{
+    align-items: center;
+}
